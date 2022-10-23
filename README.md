@@ -27,10 +27,12 @@ Utilizing python and SQLite, this project provides through analysis about the te
 
 
 ## Summary - There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.)
-Additional analysis could help solidify the business case.
 
-- Query to view precipitation statistics during June and December
-  - This would show the relationship between temperatures and precipitation
+- Query to provide precipitation data in June and December.
+  - As important as temperature, we may also need to consider about the precipitation in June and December.
 
-- Query to view average temperatures and precipitation levels at different stations
-  - This could help narrow down the optimal location for the shop
+- Query to discribe average/max/min precipitation in June and Decmber
+  - Per the plot pictures below, it displays clear understanding about the averange/maximin/minimne precipitation data in June and December
+
+![june_precipitation](june_precipitation.png)
+![dec_precipitation](dec_precipitation.png)
